@@ -1,0 +1,28 @@
+textarea {
+    width:98%;
+    margin:2%;
+    height:139px;
+}
+button:hover{
+    text-decoration:underline;
+}
+h3, h1, button, h2{
+    text-align:center;
+    align-content:center;
+}
+button{
+    filter: drop-shadow(8px 8px 9px black);
+    border:none;
+    background:black;
+    color:white;
+}
+h1{
+   top:0px;
+   position:fixed; 
+   color:white;
+   background:black;
+   border-radius:25px;
+   padding:5px;
+   align-content:center;
+   filter: drop-shadow(8px 8px 9px black);
+}
