@@ -3,7 +3,7 @@ function code(){
     var html = document.getElementById("html").value;
     var css = document.getElementById("css").value;
     var js = document.getElementById("javas").value;
-    //bring it all together
+    //weird bug where I cant put the script html whatever or it freaks out so this is my 12 year old soulution ¯\_(ツ)_/¯
     jss = "<scri"+"pt>"
     jse = "</scri"+"pt>"
     
