@@ -7,7 +7,7 @@ function code(){
     jss = "<scri"+"pt>"
     jse = "</scri"+"pt>"
     
-var myWindow = window.open("", "", "width=max,height=max");
+var myWindow = window.open("", "", "width=100%,height=100%");
   myWindow.document.write(jss+js+jse+html+"<style>"+css+"</style>");
   // hook the code together
 }
